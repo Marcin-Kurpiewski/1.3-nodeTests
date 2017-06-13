@@ -1,0 +1,1 @@
+exports.message = "wiadomość ze skryptu1.js --> export"
